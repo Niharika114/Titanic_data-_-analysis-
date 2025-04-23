@@ -14,6 +14,8 @@ Screenshot
 
 
 
+
+
 🌟 Core Features
 🔍 Data Cleaning Module
 Detects and visualizes missing values across key features
@@ -22,12 +24,18 @@ Implements multiple imputation strategies
 
 Assesses data completeness and integrity
 
+
+
+
 🧠 Feature Engineering Module
 Derives new, meaningful features from raw data (e.g., family size, title extraction)
 
 Demonstrates data transformation processes
 
 Highlights the effect of engineered features on model performance
+
+
+
 
 📈 Survival Analysis
 Interactive visualizations of survival trends
@@ -36,12 +44,19 @@ Breakdown of survival rates by passenger class, gender, and age groups
 
 Overall survival metrics with contextual demographic filters
 
+
+
+
+
 🤖 Model Comparison Dashboard
 Compares performance across multiple machine learning models (e.g., Logistic Regression, Decision Tree)
 
 Visual feedback on accuracy, precision, recall, and F1 score
 
 Modular and extensible for integrating additional algorithms
+
+
+
 
 🛠 Technologies Used
 React & TypeScript – Robust frontend architecture and type safety
@@ -53,6 +68,9 @@ Recharts – Interactive data visualizations
 Shadcn UI – Elegant, accessible UI components
 
 Vite – Fast build tool and development server
+
+
+
 
 🚀 Getting Started
 Prerequisites
@@ -67,6 +85,10 @@ Edit
 cd titanic-ml-dashboard
 npm install # or bun install
 npm run dev # or bun run dev
+
+
+
+
 📊 Dataset Summary
 Dataset Source: Kaggle Titanic Competition
 
@@ -75,6 +97,10 @@ Total Records: 891 passengers
 Key Features: Age, Gender, Passenger Class, Family Size, Fare
 
 Overall Survival Rate: 38.4%
+
+
+
+
 
 🤖 Machine Learning Workflow
 Preprocessing & Data Imputation
@@ -85,12 +111,22 @@ Model Training and Evaluation (Logistic Regression, Decision Trees, etc.)
 
 Performance Visualization and Comparative Analysis
 
+
+
+
+
+
 📌 Key Insights
 First-class passengers had significantly higher survival rates
 
 Women and children exhibited higher survival probabilities
 
 Age and family size influenced survival likelihood
+
+
+
+
+
 
 🙏 Acknowledgements
 Kaggle Titanic Dataset and community

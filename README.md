@@ -61,7 +61,6 @@ Installation
 bash
 Copy
 Edit
-git clone https://github.com/yourusername/titanic-ml-dashboard.git
 cd titanic-ml-dashboard
 npm install # or bun install
 npm run dev # or bun run dev

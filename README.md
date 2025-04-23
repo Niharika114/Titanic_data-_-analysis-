@@ -3,6 +3,9 @@
 🚢 Titanic Machine Learning Data Analysis Dashboard
 Project Overview
 This interactive web-based dashboard delivers a comprehensive analysis of the Titanic dataset by leveraging modern data science methodologies and machine learning algorithms. Developed with React, TypeScript, and robust visualization libraries, the platform offers intuitive insights into survival patterns, feature engineering techniques, and model performance comparisons.
+
+
+
 Screenshot
 ![image](https://github.com/user-attachments/assets/42164fb3-64b2-4378-960c-b7a3daec5010)
 ![image](https://github.com/user-attachments/assets/fc34e71f-f18a-46e9-855f-038fefa11383)
